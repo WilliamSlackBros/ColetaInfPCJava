@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . traymeu_lib/jsch-0.1.51.jar
+Main-Class: com.viewer.Tray
+
